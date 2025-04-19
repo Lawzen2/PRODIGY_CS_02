@@ -18,8 +18,6 @@ The **Image Encryption Tool** is a unique application that provides secure image
    Polished design with a themed layout and optional branding (e.g., logos).
 
 ---
-
-## Installation
 ### Requirements:
 - **Python Version:** Python 3.x
 - **Dependencies:** Install the required libraries:
